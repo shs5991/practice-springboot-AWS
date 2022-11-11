@@ -1,6 +1,6 @@
-package web;
+package com.golmoo.springboot.web;
 
-import com.golmoo.springboot.web.HelloController;
+import com.golmoo.springboot.HelloController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
